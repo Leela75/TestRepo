@@ -5,7 +5,7 @@ public class SamplePgm {
 		// TODO Auto-generated method stub
 		
 		
-		System.out.println("hello world..");
+		System.out.println("hellooo world..");
 
 	}
 
